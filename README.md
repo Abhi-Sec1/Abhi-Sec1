@@ -50,12 +50,9 @@ My goal is to help organizations identify and mitigate security threats by imple
 
 ## Projects
 
-### [Detection Lab](https://github.com/abhishek-choudhary/detection-lab)
-- Built a detection lab to simulate network attacks and analyze them using SIEM tools like Splunk.
-- Implemented log aggregation from Windows and Linux servers to monitor security events in real-time.
+### [MyDFIR SOC Analyst Challenge](https://github.com/abhishek-choudhary/detection-lab)
 
-### [SOC Automation Project](https://github.com/abhishek-choudhary/soc-automation)
-- Developed automation workflows using Shuffle SOAR for alert triaging and incident response.
-- Integrated TheHive for case management and ticketing, improving response time to security incidents.
+
+### [SOC Automation Project](https://github.com/Abhi-Sec1/SOC-Automation-Lab/tree/main)
 
 ---
