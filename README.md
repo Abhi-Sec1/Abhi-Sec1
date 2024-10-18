@@ -11,12 +11,11 @@ My goal is to help organizations identify and mitigate security threats by imple
 
 | Skill                                         | Associated Project         | Description |
 |-----------------------------------------------|----------------------------|-------------|
-| **SIEM Implementation & Log Analysis**        | [MyDFIR SOC Analyst Challenge](https://github.com/Abhi-Sec1/SOC-Analyst-Challenge/tree/main) | Developed a detection lab using **Elasticsearch** and **Kibana** to monitor and analyze security logs from Windows and Linux servers. |
-| **Threat Detection & Network Traffic Monitoring** | [SOC Automation Project](https://github.com/Abhi-Sec1/SOC-Automation-Lab/tree/main) | Implemented monitoring tools to detect and analyze network traffic, focusing on **brute force attacks** and suspicious activities. |
+| **SIEM Implementation & Log Analysis**        | [SOC Analyst Challenge](https://github.com/Abhi-Sec1/SOC-Analyst-Challenge/tree/main) | Developed a detection lab using **Elasticsearch** and **Kibana** to monitor and analyze security logs from Windows and Linux servers. |
+| **Threat Detection & Network Traffic Monitoring** | [SOC Automation Project](https://github.com/Abhi-Sec1/SOC-Automation-Lab/tree/main), [SOC Analyst Challenge](https://github.com/Abhi-Sec1/SOC-Analyst-Challenge/tree/main) | Implemented monitoring tools to detect and analyze network traffic, focusing on **brute force attacks** and suspicious activities. |
 | **Security Automation with Shuffle SOAR**     | [SOC Automation Project](https://github.com/Abhi-Sec1/SOC-Automation-Lab/tree/main) | Created automated workflows in **Shuffle** to streamline incident response processes and reduce response times to security alerts. |
 | **Incident Response Planning & Execution**    | [SOC Automation Project](https://github.com/Abhi-Sec1/SOC-Automation-Lab/tree/main) | Developed incident response plans and executed real-time remediation strategies using automated tools. |
 | **Case Management with TheHive**              | [SOC Automation Project](https://github.com/Abhi-Sec1/SOC-Automation-Lab/tree/main) | Integrated **TheHive** for effective case management, enabling efficient tracking and resolution of security incidents. |
-| **Scripting for Threat Mitigation**           | [SOC Automation Project](https://github.com/Abhi-Sec1/SOC-Automation-Lab/tree/main) | Wrote scripts for automation tasks, improving response times and accuracy in threat detection and mitigation processes. |
 
 ## Tools
 
