@@ -16,6 +16,7 @@ My goal is to help organizations identify and mitigate security threats by imple
 | **Security Automation with Shuffle SOAR**     | [SOC Automation Project](https://github.com/Abhi-Sec1/SOC-Automation-Lab/tree/main) | Created automated workflows in **Shuffle** to streamline incident response processes and reduce response times to security alerts. |
 | **Incident Response Planning & Execution**    | [SOC Automation Project](https://github.com/Abhi-Sec1/SOC-Automation-Lab/tree/main) | Developed incident response plans and executed real-time remediation strategies using automated tools. |
 | **Case Management with TheHive**              | [SOC Automation Project](https://github.com/Abhi-Sec1/SOC-Automation-Lab/tree/main) | Integrated **TheHive** for effective case management, enabling efficient tracking and resolution of security incidents. |
+| **Active Directory & Attack Simulation**      | [Active Directory Project](https://github.com/Abhi-Sec1/Active-Directory/tree/main) | Set up an Active Directory environment, performed brute-force attacks with **Kali Linux**, and analyzed telemetry using **Splunk**. |
 
 ## Tools
 
@@ -38,6 +39,7 @@ My goal is to help organizations identify and mitigate security threats by imple
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ## Certifications
@@ -54,3 +56,6 @@ My goal is to help organizations identify and mitigate security threats by imple
 
 ### [SOC Automation Project](https://github.com/Abhi-Sec1/SOC-Automation-Lab/tree/main)
 - **Description**: Implemented monitoring tools and automated workflows to enhance incident response processes in a Security Operations Center environment.
+
+### [Active Directory Project](https://github.com/Abhi-Sec1/Active-Directory/tree/main)
+- **Description**: Built a home lab with **Active Directory**, **Splunk**, and **Kali Linux**. Configured Active Directory on Windows Server, joined a target PC to the domain, and simulated attacks using **Kali Linux**. Logs and telemetry data were analyzed with **Splunk** to detect security incidents.
